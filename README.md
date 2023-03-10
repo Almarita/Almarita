@@ -18,11 +18,12 @@
 | ----------- | ----------- |
 | whoami      | Muestra el nombre del usuario actual.       |
 | mkdir   | Crea una nueva carpeta dado un nombre para esa carpeta.         |
-| Header      | Title       |
-| Paragraph   | Text        |
-| Paragraph   | Text        |
+| cp      |   Comando que nos permite copiar archivos dada una ruta inicial y una ruta
+final.        |
+| rm   |   Permite eliminar un archivo dada una ruta.    |
+| touch   |     Crea un archivo nuevo dada una ruta y/o nombre.    |
 ### 2 comandos alias:
 | Alias     | Comando del que es alias | Descripción |
 | ----------- | ----------- |   ----------- | 
-| Header      | Title       |
-| Paragraph   | Text        |
+| getpass      | alias getpass="openssl rand -base64 20"     |   	Genera una contraseña random de 20 caracteres|
+| zshconfig   | code ~/.zshrc | Abre VSCode con el archivo de configuracion de zsh  |
