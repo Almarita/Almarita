@@ -10,7 +10,7 @@
 ### ✨ Some facts about me:
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
-* My mothertongues are Spanish and Catalan and I also can speak English and German!
+* My mothertongues are Spanish and Catalan and I can also speak English and German!
 # Tarea 1 clase 1
 
 ### 5 comandos de la terminal:
