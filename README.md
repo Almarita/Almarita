@@ -7,7 +7,7 @@
 ### 🌱 I’m currently learning:
 * JavaScript
 * React
-### ✨Some facts about me:
+### ✨ Some facts about me:
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
 * My mothertongues are Spanish and Catalan and I also can speak English and German!
