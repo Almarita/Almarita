@@ -1,5 +1,5 @@
 # Hey!👐¡Hola!
-## My name is Irene, I live in **Berlin** and I'm learning Web Development as an **autodidact**. _Programming is so much **_fun_**_!
+## My name is Irene, I live in **Berlin** and I started my path in Web Development as an **autodidact**. Now I'm happy to say that I'm a WebDev student at **Le Wagon**. _Programming is so much **_fun_**_!
 ### 🔭 Resources I'm currently studying with:
 * FreeCodeCamp
 * Undefined Shell Academy
@@ -7,6 +7,7 @@
 ### 🌱 I’m currently learning:
 * JavaScript
 * React
+* Ruby on Rails
 ### ✨ Some facts about me:
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
