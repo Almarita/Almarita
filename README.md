@@ -14,6 +14,8 @@ Already planning on new and exciting projects! 🤝
 ### 🌱 I'm currently expanding my knowledge and improving my skills on
 * JavaScript
 * API's
+* SQL
+* Figma
 
 ### 💞 I love learning with:
 * [Le Wagon](https://www.lewagon.com/ "Le Wagon")
