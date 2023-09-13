@@ -1,30 +1,26 @@
-# Hey!👐¡Hola!
-## My name is Irene, I live in **Berlin** and I started my path in Web Development as an **autodidact**. Now I'm happy to say that I'm a WebDev student at **Le Wagon**. _Programming is so much **_fun_**_!
-### 🔭 Resources I'm currently studying with:
-* FreeCodeCamp
-* Undefined Shell Academy
-* EDX CS50
-### 🌱 I’m currently learning:
+# Hey there 🙌🏻, I'm **Irene**
+## An enthusiastic Junior Full-Stack Web Developer based in **Berlin**
+
+> For everything is yet undone, and everything is possible! - Miquel Marti i Pol
+
+
+
+### 🔭 My projects:
+* I've been working with my amazing team of 4 () on a **social network mobile-first app** for book lovers, [LitLoop](https://litloop-34ef57e08f2a.herokuapp.com/ "LitLoop")
+* We also developed an Airbnb Clone for people to share and lend books 📚! [BookaBook](https://bookabook-bertchdg-9165abb9c2be.herokuapp.com/ "BookaBook")
+
+🤝 Already planning on new and exciting projects!
+
+### 🌱 I'm currently expanding my knowledge and improving my skills on
 * JavaScript
-* React
-* Ruby on Rails
+* API's
+
+### 💞 I love learning with:
+
+
 ### ✨ Some facts about me:
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
 * My mothertongues are Spanish and Catalan and I can also speak English and German!
-# Tarea 1 clase 1
 
-### 5 comandos de la terminal:
-| Comando     | Descripción |
-| ----------- | ----------- |
-| whoami      | Muestra el nombre del usuario actual.       |
-| mkdir   | Crea una nueva carpeta dado un nombre para esa carpeta.         |
-| cp      |   Comando que nos permite copiar archivos dada una ruta inicial y una ruta
-final.        |
-| rm   |   Permite eliminar un archivo dada una ruta.    |
-| touch   |     Crea un archivo nuevo dada una ruta y/o nombre.    |
-### 2 comandos alias:
-| Alias     | Comando del que es alias | Descripción |
-| ----------- | ----------- |   ----------- | 
-| getpass      | alias getpass="openssl rand -base64 20"     |   	Genera una contraseña random de 20 caracteres|
-| zshconfig   | code ~/.zshrc | Abre VSCode con el archivo de configuracion de zsh  |
+####📫 Email me! irenemancebo18@gmail.com
