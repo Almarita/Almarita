@@ -16,11 +16,13 @@
 * API's
 
 ### 💞 I love learning with:
-
+* [Le Wagon](https://www.lewagon.com/ "Le Wagon")
+* [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp")
+* [Undefined Shell Academy](https://github.com/undefined-academy "Undefined Shell Academy")
 
 ### ✨ Some facts about me:
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
 * My mothertongues are Spanish and Catalan and I can also speak English and German!
 
-####📫 Email me! irenemancebo18@gmail.com
+#### 📫 Email me! irenemancebo18@gmail.com
