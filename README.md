@@ -21,7 +21,12 @@ Already planning on new and exciting projects! 🤝
 * [Undefined Shell Academy](https://github.com/undefined-academy "Undefined Shell Academy")
 
 ------------
-## My tech stack:
+### My tech stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,js,html,css,git,heroku,bootstrap,react,linux" />
+  </a>
+</p>
 
 
 
