@@ -3,13 +3,13 @@
 
 > For everything is yet undone, and everything is possible! - Miquel Marti i Pol
 
-
+With a background in Ethics and Philosophy education, I started learning programming as an **autodidact** after finding out how much fun coding is. I graduated from a 9 week full time Web Development **Bootcamp** in [Le Wagon](https://github.com/lewagon "Le Wagon"). Now I'm looking forward to keep growing on the tech sector, transform ideas into reality and build a digital future that enhances the way we interact with technology and each other.
 
 ### 🔭 My projects:
-* I've been working with my amazing team of 4 () on a **social network mobile-first app** for book lovers, [LitLoop](https://litloop-34ef57e08f2a.herokuapp.com/ "LitLoop")
+* I've been working with my amazing team ([Nicole](https://github.com/lilzenith "Nicole"), [Nadja](https://github.com/nadjajr "Nadja") and [Brett](https://github.com/bertchdg "Brett")) on a **social network mobile-first app** for book lovers, [LitLoop](https://litloop-34ef57e08f2a.herokuapp.com/ "LitLoop")
 * We also developed an Airbnb Clone for people to share and lend books 📚! [BookaBook](https://bookabook-bertchdg-9165abb9c2be.herokuapp.com/ "BookaBook")
 
-🤝 Already planning on new and exciting projects!
+Already planning on new and exciting projects! 🤝
 
 ### 🌱 I'm currently expanding my knowledge and improving my skills on
 * JavaScript
@@ -24,5 +24,10 @@
 * My pronouns are she/they.
 * I'm obsessed with Wittgenstein's philosophy.
 * My mothertongues are Spanish and Catalan and I can also speak English and German!
+
+------------
+## My tech stack:
+
+
 
 #### 📫 Email me! irenemancebo18@gmail.com
