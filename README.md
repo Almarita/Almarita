@@ -20,11 +20,6 @@ Already planning on new and exciting projects! 🤝
 * [FreeCodeCamp](https://www.freecodecamp.org/ "FreeCodeCamp")
 * [Undefined Shell Academy](https://github.com/undefined-academy "Undefined Shell Academy")
 
-### ✨ Some facts about me:
-* My pronouns are she/they.
-* I'm obsessed with Wittgenstein's philosophy.
-* My mothertongues are Spanish and Catalan and I can also speak English and German!
-
 ------------
 ## My tech stack:
 
